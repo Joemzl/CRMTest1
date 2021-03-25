@@ -5,4 +5,6 @@ package com.bjpowernode.domain;
  */
 public class test1 {
     private String id;
+    private String name;
+
 }
